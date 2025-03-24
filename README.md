@@ -1,5 +1,8 @@
 **FiveM ESX Script**
+[EN]
+Script under development coming soon...
 
+[PT]
 Script em desenvolvimento em breve novidades...
 
 
