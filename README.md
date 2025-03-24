@@ -1,9 +1,9 @@
-**FiveM ESX Script**
+## FiveM ESX Script
 
-[EN]
+**[EN]**
 Script under development coming soon...
 
-[PT]
+**[PT]**
 Script em desenvolvimento em breve novidades...
 
 
